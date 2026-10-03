@@ -1,0 +1,23 @@
+{
+  "name": "bima-saathi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Jatinjad/bima-saathi#readme",
+  "bugs": {
+    "url": "https://github.com/Jatinjad/bima-saathi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatinjad/bima-saathi.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0"
+  }
+}
